@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*[Leonhard Liu]*
 
-*[Your Cohort, Campus & Date]*
+*[16.08.2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,21 +13,19 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+I build a strong random password generator. Because I was interested in how something like that might work.
 
 ## Rules
-Describe briefly the rules of the game you chose. 
+User has to choose a digit between 8-16. A randomly generated password with letters (lower and upper case) and a few special charaters are added.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. defining of lists with all the possible charaters which can be used for the final password.
+2. user input with exception handling. User is required to enter a digit between 8 and 16.
+3. generation of the password with the length of user requested input.
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
 
-What does your repository look like? Explain your folder and file structure.
-
-## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
+## Links 
 
 [Repository](https://github.com/)   
 [Trello](https://trello.com/en)  
